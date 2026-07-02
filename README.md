@@ -58,6 +58,10 @@ fetch tasks from the backend running on port 5000.
 ✅ Responsive UI
 ✅ Logout
 
+## 🎥 Demo Video
+
+[▶️ Watch the TaskFlow Pro Demo](demo/demo.mp4)
+
 ## Technologies Used
 Frontend
 - HTML5

@@ -4,6 +4,13 @@
     "name": "Balaji",
     "email": "hotmail@gmail.com",
     "password": "$2b$10$OKxKRArA6CyLVOB.a0W8YOCHxdLDBomBr3GWKd3qhDdsUdfkRofTi",
-    "tasks":[]
+    "tasks": []
+  },
+  {
+    "id": 1782989705587,
+    "name": "max",
+    "email": "hotmail.2@gmail.com",
+    "password": "$2b$10$bzIX.m.1fjfImocHLo5I/.UFndTd0Piuczs18tl/9X4CWl1YJbuoW",
+    "tasks": []
   }
 ]
